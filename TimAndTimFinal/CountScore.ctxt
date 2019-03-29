@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CountScore
+comment0.text=\n\ Write\ a\ description\ of\ class\ CountScore\ here.\n\ \n\ @author\ Tim\ O'Brien\ &\ Tim\ Weaver\ \n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=CountScore()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a
+comment3.target=void\ add(int)
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=score
+comment5.target=void\ setScore(int)
+numComments=6
